@@ -1,0 +1,19 @@
+{
+  "blurb": "Determine if a sentence is a pangram.",
+  "authors": [
+    "rpottsoh"
+  ],
+  "files": {
+    "solution": [
+      "uPangram.pas"
+    ],
+    "test": [
+      "uPangramTests.pas"
+    ],
+    "example": [
+      ".meta/uPangramExample.pas"
+    ]
+  },
+  "source": "Wikipedia",
+  "source_url": "https://en.wikipedia.org/wiki/Pangram"
+}
